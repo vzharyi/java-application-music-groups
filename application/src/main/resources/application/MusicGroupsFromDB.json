@@ -1,0 +1,66 @@
+{
+  "musicGroups": {
+    "list": [
+      {
+        "musicGroup": [
+          {
+            "name": "Сонячні акорди ",
+            "surnameLeader": "Жарий",
+            "list": [
+              {
+                "touringTrip": [
+                  {
+                    "city": "Харків",
+                    "year": 2022,
+                    "numberOfConcerts": 5,
+                    "id": 1
+                  },
+                  {
+                    "city": "Одеса",
+                    "year": 2023,
+                    "numberOfConcerts": 2,
+                    "id": 2
+                  },
+                  {
+                    "city": "Полтава",
+                    "year": 2024,
+                    "numberOfConcerts": 10,
+                    "id": 3
+                  },
+                  {
+                    "city": "Львів",
+                    "year": 2025,
+                    "numberOfConcerts": 4,
+                    "id": 4
+                  },
+                  {
+                    "city": "Житомир",
+                    "year": 2026,
+                    "numberOfConcerts": 15,
+                    "id": 5
+                  }
+                ]
+              }
+            ],
+            "id": 1
+          },
+          {
+            "name": "Місячні",
+            "surnameLeader": "Жарий",
+            "list": [
+              {
+                "touringTrip": {
+                  "city": "Київ",
+                  "year": 2024,
+                  "numberOfConcerts": 20,
+                  "id": 6
+                }
+              }
+            ],
+            "id": 2
+          }
+        ]
+      }
+    ]
+  }
+}
